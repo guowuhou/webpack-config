@@ -1,0 +1,12 @@
+@import './a.css';
+
+body{
+    background: blue;
+    transform: rotate(10deg);
+}
+
+div{
+    width: 300x;
+    height: 300px;
+     background: url("./logo192.png");
+}
